@@ -1,0 +1,7 @@
+name: ElytraDurability
+version: 1.0.0
+main: com.example.elytradurability.ElytraDurabilityPlugin
+api-version: '26.2'
+folia-supported: true
+description: Reduces elytra durability loss by a configurable percentage.
+author: YourName
