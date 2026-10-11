@@ -1,0 +1,6 @@
+# Percentage of durability loss to REMOVE from elytra damage.
+#   75  = elytras lose only 25% of the durability they normally would
+#   0   = vanilla behavior
+#   100 = no durability loss at all
+# Changes take effect after a server restart.
+damage-reduction-percent: 75.0
